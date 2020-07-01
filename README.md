@@ -1,1 +1,1 @@
-# mysql-workbench-zh-cn-master
+# mysql-workbench 中文汉化包
